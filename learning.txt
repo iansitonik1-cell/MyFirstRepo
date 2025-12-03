@@ -1,1 +1,3 @@
-This is what I learned in this course.
+What I have learned from this course
+What I have learned from this course
+I learned how to use the Linux terminal, create files, write commands, and manage permissions. I also learned how to use git, push to GitHub, and work with basic scripting.
